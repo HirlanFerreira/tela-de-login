@@ -12,4 +12,4 @@ git push origin main
 
 Agora tufo ok
 Digitei em ctrl (controle) + shift + p
-prontinho meu patraogit
+prontinho meu patrao
